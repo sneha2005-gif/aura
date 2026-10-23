@@ -1,0 +1,6 @@
+{
+  "name": "AURA Spatial Sound & Luxury Gear",
+  "description": "Next-generation 3D scrollable e-commerce showcase featuring procedural high-fidelity 3D audio flagships, interactive exploded views, custom material finishes, studio lighting, and smooth checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
